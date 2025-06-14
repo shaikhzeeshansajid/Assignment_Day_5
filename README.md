@@ -8,4 +8,4 @@ This is a simple, responsive landing page for a tech webinar. It includes a regi
 - Embedded YouTube preview
 - Registration form and event schedule
 
-Open `index.html` in a browser to see the output.
+Open `index5.html` in a browser to see the output.
